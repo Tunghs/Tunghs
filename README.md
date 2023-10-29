@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Java-youlike-blue"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/-C%23-dddd-E3E3E3?logo=Csharp&style=flat-square&logoColor=blue"/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tunghs&show_icons=true&theme=radical)
+<span>
+  <img src="https://img.shields.io/badge/-C%23_WPF-5d4581?logo=Csharp&style=flat&logoColor=E3E3E3"/>
+</span>
