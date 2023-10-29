@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=150&section=header&text=Tunghs&fontSize=70&animation=twinkling&reversal=true)
+
 ### Hi there 👋
 
 <!--
@@ -15,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<span>
-  <img src="https://img.shields.io/badge/-C%23_WPF-5d4581?logo=Csharp&style=flat&logoColor=E3E3E3"/>
-</span>
+<p>
+  <a href="https://learn.microsoft.com/ko-kr/dotnet/desktop/wpf/overview/?view=netdesktop-7.0"><img src="https://img.shields.io/badge/C++-004173?logo=C%2B%2B&style=flat&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/ko-kr/dotnet/desktop/wpf/overview/?view=netdesktop-7.0"><img src="https://img.shields.io/badge/C%23-644d96?logo=Csharp&style=flat&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/ko-kr/dotnet/desktop/wpf/overview/?view=netdesktop-7.0"><img src="https://img.shields.io/badge/C%23_WPF-blue?logo=Csharp&style=flat&logoColor=white"/></a>
+</p>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTunghs&count_bg=%2369BDAC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
