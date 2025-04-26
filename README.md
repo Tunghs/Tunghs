@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <a href="https://learn.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170"><img src="https://img.shields.io/badge/C++-004173?logo=C%2B%2B&style=flat&logoColor=white"/></a>
   <a href="https://learn.microsoft.com/ko-kr/dotnet/csharp/tour-of-csharp/"><img src="https://img.shields.io/badge/C%23-644d96?logo=Csharp&style=flat&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/ko-kr/cpp/cpp/welcome-back-to-cpp-modern-cpp?view=msvc-170"><img src="https://img.shields.io/badge/C++-004173?logo=C%2B%2B&style=flat&logoColor=white"/></a>
   <a href="https://learn.microsoft.com/ko-kr/dotnet/desktop/wpf/overview/?view=netdesktop-7.0"><img src="https://img.shields.io/badge/C%23_WPF-blue?logo=Csharp&style=flat&logoColor=white"/></a>
 </p>
 
